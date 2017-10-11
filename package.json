@@ -1,0 +1,21 @@
+{
+  "name": "ts-seed-simple",
+  "version": "1.0.0",
+  "description": "typescript seed",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/wuweitiandian/ts-seed.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "fonglezen",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-typescript": "^3.2.2",
+    "typescript": "^2.5.3"
+  }
+}
